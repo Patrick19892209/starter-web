@@ -18,3 +18,5 @@ Blablabla
 XXXLutz
 
 ##Ende
+
+# Copyright
